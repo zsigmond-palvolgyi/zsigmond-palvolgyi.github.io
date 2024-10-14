@@ -7,20 +7,16 @@ author_profile: true
 
 ## University of Michigan, Graduate Student Instructor
 
-**Intermediate Microeconomics** _Fall 2022_
-
-**Principles of Macroeconomics** _Winter 2020_
-
-**Principles of Microeconomics** _Fall 2019, Winter 2024_
+**Intermediate Microeconomics** _Fall 2022_<br>
+**Principles of Macroeconomics** _Winter 2020_<br>
+**Principles of Microeconomics** _Fall 2019, Winter 2024_<br>
 
 
 
 ## ICPSR Summer Program, Teaching Assistant
 
-
-**Theoretical Modeling for the Social and Behavioral Sciences** _Summer 2024_
-
-**Game Theory** _Summer 2023_
+**Theoretical Modeling for the Social and Behavioral Sciences** _Summer 2024_<br>
+**Game Theory** _Summer 2023_<br>
 
 
 Teaching evaluations from all semesters are available by request.
