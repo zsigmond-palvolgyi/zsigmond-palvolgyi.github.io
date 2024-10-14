@@ -21,7 +21,7 @@ repository               : "zsigmond-palvolgyi/zsigmond-palvolgyi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot_palvolgyi.jpg"
   name             : "Zsigmond Pálvölgyi"
   pronouns         : # example: "she/her"  
   bio              : "Job Market Candidate, Labor & Public Economics"
