@@ -23,7 +23,7 @@ _with [Tyler Radler](https://tradler.github.io/) and [Nikhil Rao](https://sites.
 
 Abstract coming soon!
 
-***The long-lasting Effects of Racially Restrictive Covenants: Evidence from the Twin Cities***<br>
+***The Long-Lasting Effects of Racially Restrictive Covenants: Evidence from the Twin Cities***<br>
 
 [jmp]: ../files/zsigmond_palvolgyi_jmp.pdf
 [gyed_extra]: ../files/hungarian_parental_leave_paper.pdf
