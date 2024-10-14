@@ -19,7 +19,7 @@ _with [Anikó Bíró](https://sites.google.com/site/aniko17biro/), [Lili Márk](
 In this paper, we identify the substitution effect in paid parental leave (`PL'), by exploiting a Hungarian reform that affected only the possibility of employment during the receipt of PL benefits, while keeping the overall benefit amounts unchanged. Hungarian mothers whose child turned into their 2nd year of age after 2014 were provided strong incentives to return to the labor market earlier than previous cohorts, since they did not have to give up PL benefits while earning their wage income during their children's 2nd year of age. Using an Event Study research design with women without births in the control group and Hungarian linked employer-employee data, we find that mothers in eligible cohorts were  by 3 percentage points (30 percent) more likely to work 19--24 months after giving birth - but, no further differences exist in their working propensities or its timing. Our results suggest no effects, on average, on mothers' wages but positive effects on their firms' average wage premium 3-5 years after giving birth, and that eligible mothers sorted to occupations that require less analytical thinking, stress tolerance, leadership and willingness to take on responsibilities, and involve less time pressure.
 
 ***Parental Resources and Major Choice***<br> 
-_with [Tyler Radler](https://tradler.github.io/) and [Nikhil Rao](https://sites.google.com/view/nikhil-rao/)_\
+_with [Tyler Radler](https://tradler.github.io/) and [Nikhil Rao](https://sites.google.com/view/nikhil-rao/)_
 
 Abstract coming soon!
 
