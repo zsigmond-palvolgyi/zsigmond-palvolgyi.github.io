@@ -11,7 +11,7 @@ author_profile: true
 
 Following the Fair Housing Act (FHA), which ended lawful housing segregation in the US in 1968, racial residential segregation declined rapidly and Black families started to accumulate wealth at a faster pace than Whites. In this paper, I examine whether the FHA could jointly explain these two phenomena, and I simulate how the FHA affected racial wealth inequality. I first present three stylized facts, which show that during the 1970s, racial residential segregation started to decline, the relocation of Black families from Black neighborhoods intensified, and average housing wealth increased rapidly among Black families. To investigate whether the FHA could have caused these three stylized facts through the free relocation of Black families, I estimate a heterogeneous agent life-cycle OLG model with spatial equilibrium and endogenous house prices. With this model, I simulate how the FHA affected families' relocation across neighborhoods, neighborhood-level house prices, and the Black and White wealth distribution. Based on my simulation results, the FHA could explain, by itself, the observed relocation patterns, the decreasing residential segregation, and partly the increasing housing wealth of Black families. My results suggest that the FHA substantially decreased racial wealth inequality at the top while, somewhat unexpectedly, it increased racial wealth inequality between the 2nd and 7th deciles of the wealth distribution. 
 
-## Drafts
+## Working papers
 
 ***Does Earlier Return to Work Enhance Mothers' Labor Trajectories? – Evidence on Substitution Effects in Paid Parental Leave*** [[Working paper][gyed_extra]]<br>
 _with [Anikó Bíró](https://sites.google.com/site/aniko17biro/), [Lili Márk](https://economics.ceu.edu/people/lili-mark), and [Tímea Laura Molnár](https://timea-laura-molnar.com/)_
@@ -28,7 +28,7 @@ Abstract coming soon!
 ***The Long-Lasting Effects of Racially Restrictive Covenants: Evidence from the Twin Cities***<br>
 
 ***The  Impact  of  Slum  Clearance  on  the  Cleared:  Evidence  from  US  Public Housing***<br>
-_with [Melvin Stephens](https://sites.lsa.umich.edu/mstep/) and [Yvette Zhang](https://economics.yale.edu/people/yvette-zhang)_
+_with [Mel Stephens](https://sites.lsa.umich.edu/mstep/) and [Yvette Zhang](https://economics.yale.edu/people/yvette-zhang)_
 
 [jmp]: ../files/zsigmond_palvolgyi_jmp.pdf
 [gyed_extra]: ../files/bmmp_mothers_return_to_work.pdf
