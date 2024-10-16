@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ### University of Michigan, Graduate Student Instructor
-
-&nbsp; &nbsp; Intermediate Microeconomics (_Fall 2022_) [[Teaching evaluation][teaching_evaluation]] <br>
-&nbsp; &nbsp; Principles of Macroeconomics (_Winter 2020_) <br>
-&nbsp; &nbsp; Principles of Microeconomics (_Fall 2019, Winter 2024_) <br>
+<ul style="list-style-type:none;">
+  <li>Intermediate Microeconomics (<em>Fall 2022</em>)<a href="https://zsigmond-palvolgyi.github.io/files/palvolgyi_teaching_eval_intermediate_micro.pdf">Teaching evaluation</a></li>
+  <li>Principles of Macroeconomics (<em>Winter 2020</em>)</li>
+  <li>Principles of Microeconomics (<em>Fall 2019, Winter 2024</em>)</li>
+</ul> 
 <br>
 
 
 ### ICPSR Summer Program, Teaching Assistant
-
 <ul style="list-style-type:none;">
   <li>Theoretical Modeling for the Social and Behavioral Sciences (<em>Summer 2024</em>)</li>
   <li>Game Theory (<em>Summer 2023</em>)</li>
