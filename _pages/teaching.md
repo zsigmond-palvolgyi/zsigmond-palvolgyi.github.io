@@ -23,5 +23,3 @@ author_profile: true
 <br>
 
 Teaching evaluations from all semesters are available by request.
-
-[teaching_evaluation]: ../files/palvolgyi_teaching_eval_intermediate_micro.pdf
