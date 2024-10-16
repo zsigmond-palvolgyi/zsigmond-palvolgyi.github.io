@@ -7,11 +7,11 @@ author_profile: true
 
 ### University of Michigan, Graduate Student Instructor
 
-Intermediate Microeconomics (_Fall 2022_) [[Teaching evaluation][teaching_evaluation]] <br>
+&nbsp; Intermediate Microeconomics (_Fall 2022_) [[Teaching evaluation][teaching_evaluation]] <br>
 <br>
-Principles of Macroeconomics (_Winter 2020_) <br>
+&nbsp; Principles of Macroeconomics (_Winter 2020_) <br>
 <br>
-Principles of Microeconomics (_Fall 2019, Winter 2024_) <br>
+&nbsp; Principles of Microeconomics (_Fall 2019, Winter 2024_) <br>
 <br>
 
 
@@ -20,7 +20,10 @@ Principles of Microeconomics (_Fall 2019, Winter 2024_) <br>
 Theoretical Modeling for the Social and Behavioral Sciences, (_Summer 2024_) <br>
 <br>
 Game Theory (_Summer 2023_) <br>
+<br>
 
+<br>
+<br>
 
 Teaching evaluations from all semesters are available by request.
 
