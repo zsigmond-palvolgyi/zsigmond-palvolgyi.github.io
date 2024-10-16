@@ -23,7 +23,7 @@ In this paper, we identify the substitution effect in paid parental leave (`PL')
 ***Parental Resources and Major Choice***<br> 
 _with [Tyler Radler](https://tradler.github.io/) and [Nikhil Rao](https://sites.google.com/view/nikhil-rao/)_
 
-Abstract coming soon!
+This paper investigates how parental housing wealth affects the college major choice of their children. Since parental resources can insure against labor market risks, children of high-resource parents might choose majors associated with greater labor market risks, steeper earnings profiles or better non-pecuniary amenities. Such an interaction between socio-economic status and human capital investment decisions could be an important driver of intergenerational inequality. We test these hypotheses by combining surveys of undergraduate students in the United States from the Higher Education Research Institute and spatial variation in housing demand growth between 2000 and 2006. We find that students entering four-year colleges during periods of booming housing demand are more likely to choose risky majors that require higher initial investment and are more likely to report non-pecuniary factors as key reasons for their choice of major. We also find limited evidence of selection into enrolment at four-year colleges. Future work involves linking these first-year student responses to their responses at the end of their college careers to investigate whether the effects on major choice persist throughout college, and if they translate into effects on occupation choice.
 
 ***The Long-Lasting Effects of Racially Restrictive Covenants: Evidence from the Twin Cities***<br>
 
