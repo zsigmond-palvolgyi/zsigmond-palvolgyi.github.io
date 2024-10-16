@@ -7,7 +7,7 @@ author_profile: true
 
 ### University of Michigan, Graduate Student Instructor
 <ul style="list-style-type:none;">
-  <li>Intermediate Microeconomics (<em>Fall 2022</em>)<a href="https://zsigmond-palvolgyi.github.io/files/palvolgyi_teaching_eval_intermediate_micro.pdf">Teaching evaluation</a></li>
+  <li>Intermediate Microeconomics (<em>Fall 2022</em>) [<a href="https://zsigmond-palvolgyi.github.io/files/palvolgyi_teaching_eval_intermediate_micro.pdf">Teaching evaluation</a>] </li>
   <li>Principles of Macroeconomics (<em>Winter 2020</em>)</li>
   <li>Principles of Microeconomics (<em>Fall 2019, Winter 2024</em>)</li>
 </ul> 
