@@ -17,9 +17,7 @@ author_profile: true
 
 &nbsp; &nbsp; Theoretical Modeling for the Social and Behavioral Sciences (_Summer 2024_) <br>
 &nbsp; &nbsp; Game Theory (_Summer 2023_) <br>
-<br>
 
-<br>
 <br>
 
 Teaching evaluations from all semesters are available by request.
