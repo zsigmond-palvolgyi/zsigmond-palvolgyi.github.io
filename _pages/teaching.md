@@ -16,8 +16,8 @@ author_profile: true
 ### ICPSR Summer Program, Teaching Assistant
 
 <ul style="list-style-type:none;">
-  <li>Theoretical Modeling for the Social and Behavioral Sciences (_Summer 2024_)</li>
-  <li>Game Theory (_Summer 2023_)</li>
+  <li>Theoretical Modeling for the Social and Behavioral Sciences (*Summer 2024*)</li>
+  <li>Game Theory (*Summer 2023*)</li>
 </ul> 
 
 <br>
