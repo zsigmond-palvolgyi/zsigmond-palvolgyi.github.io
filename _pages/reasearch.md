@@ -28,7 +28,6 @@ This paper investigates how parental housing wealth affects the college major ch
 ***The  Impact  of  Slum  Clearance  on  the  Cleared:  Evidence  from  US  Public Housing***<br>
 _with [Mel Stephens](https://sites.lsa.umich.edu/mstep/) and [Yvette Zhang](https://economics.yale.edu/people/yvette-zhang)_
 
-***Racial Segregation and Racially Restrictive Covenants***<br>
 
 
 
