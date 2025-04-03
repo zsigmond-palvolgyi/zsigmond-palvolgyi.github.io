@@ -14,4 +14,4 @@ I study how governmental policies shape inequality and how inequality influences
 
 <!--I study the impact of housing policies on residential segregation and racial wealth inequality. I also work on topics at the intersection of family economics, human capital accumulation, and inequality.-->
 
-I am on the 2024-25 economics job market. 
+I will join the Institute of Economics at Corvinus University of Budapest as an Assistant Professor in July 2025.
