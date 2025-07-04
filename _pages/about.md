@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Institute of Economics at Corvinus University of Budapest. I am an applied microeconomist whose research covers topics in labor and public economics. 
+I am an Assistant Professor in the Institute of Economics at Corvinus University of Budapest. I received my PhD from the University of Michigan in 2025.
 
-I study how governmental policies shape inequality and how inequality influences economic decision-making. My main research agenda explores the impact of housing policies on residential segregation and racial wealth inequality. I also work on topics at the intersection of inequality, family economics, and human capital accumulation.
+I am an applied microeconomist whose research covers topics in labor and public economics. I study how governmental policies shape inequality and how inequality influences economic decision-making. My main research agenda explores the impact of housing policies on residential segregation and racial wealth inequality. I also work on topics at the intersection of inequality, family economics, and human capital accumulation.
 
 <!--I study the impact of housing policies on residential segregation and racial wealth inequality. I also work on topics at the intersection of family economics, human capital accumulation, and inequality.-->
-
- I received my PhD from the University of Michigan in 2025.
