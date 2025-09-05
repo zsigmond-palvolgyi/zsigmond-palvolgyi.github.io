@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am an Assistant Professor in the Institute of Economics at Corvinus University of Budapest.
+I am an Assistant Professor in the Institute of Economics at Corvinus University of Budapest and a Career Integration Fellow of the CERGE-EI Foundation.
 
 I study how governmental policies shape inequality and how inequality influences economic decision-making. My main research agenda explores the impact of housing policies on residential segregation and racial wealth inequality. I also work on topics at the intersection of inequality, family economics, and human capital accumulation.
 
