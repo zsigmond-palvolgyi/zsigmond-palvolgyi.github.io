@@ -8,7 +8,7 @@ author_profile: true
 ### Corvinus University of Budapest
 <ul style="list-style-type:none;">
   <li>Introduction to Labor Economics (<em>Fall 2025</em>)</li>
-  <li>Introduction to of Macroeconomics (in Hungarian) (<em>Fall 2025</em>)</li>
+  <li>Introduction to Macroeconomics (in Hungarian) (<em>Fall 2025</em>)</li>
 </ul> 
 <br>
 
