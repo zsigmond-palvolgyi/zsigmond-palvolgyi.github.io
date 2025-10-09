@@ -14,5 +14,5 @@ main:
   - title: "CV"
     url: /files/cv_zsigmond_palvolgyi.pdf    
     
-  - title: "Job Market Paper"
-    url: /files/zsigmond_palvolgyi_jmp.pdf
+ # - title: "Job Market Paper"
+ #   url: /files/zsigmond_palvolgyi_jmp.pdf
