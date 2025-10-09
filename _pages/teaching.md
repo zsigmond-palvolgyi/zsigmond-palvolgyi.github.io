@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Corvinus University of Budapest
+<ul style="list-style-type:none;">
+  <li>Introduction to Labor Economics (<em>Fall 2025</em>)</li>
+  <li>Introduction to of Macroeconomics (in Hungarian) (<em>Fall 2025</em>)</li>
+</ul> 
+<br>
+
 ### University of Michigan, Graduate Student Instructor
 <ul style="list-style-type:none;">
   <li>Intermediate Microeconomics (<em>Fall 2022</em>)</li>
@@ -19,7 +26,3 @@ author_profile: true
   <li>Theoretical Modeling for the Social and Behavioral Sciences (<em>Summer 2024</em>)</li>
   <li>Game Theory (<em>Summer 2023</em>)</li>
 </ul> 
-
-<br>
-
-Teaching evaluations from all semesters are available by request.
