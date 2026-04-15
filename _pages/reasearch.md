@@ -18,12 +18,13 @@ _with [Anikó Bíró](https://sites.google.com/site/aniko17biro/), [Lili Márk](
 
 Does earlier return to work after childbirth affect mothers’ labor market trajectories? In this paper, we exploit a unique Hungarian policy reform that allowed mothers to keep maternity benefits even if they resumed work before their child turned two, creating a financial incentive to return earlier without reducing benefit levels. Such unique setting enables us to isolate the Substitution Effect inherent in Paid Parental Leave and to provide its first estimates. Using an Event Study design and administrative linked employer-employee data, we find a 2.8 percentage point (28 percent) rise in employment 19–24 months after childbirth, with no impact on later births or long-term employment propensities. 3–5 years after childbirth, eligible mothers tend to sort into firms with higher wage premiums, but into roles with fewer leadership responsibilities, lower time pressure or consequences of error, and less need for analytical thinking. Our results are consistent with mothers having an income target and trading off wages with job amenities, suggesting that earlier return to work shapes their careers. We find wage increases for some – mothers who give birth at an older age and live in Budapest – despite sorting into less managerial jobs, while those initially in lower-paying firms tend to move up, albeit into less managerial, but predictable jobs with a regular schedule.
 
-## Work in progress
-
-***Parental Resources and Major Choice***<br> 
+***Parental Resources and Major Choice*** [[Working paper][major_paper]] <br> 
 _with [Tyler Radler](https://tradler.github.io/) and [Nikhil Rao](https://sites.google.com/view/nikhil-rao/)_
 
-Since parental resources have been shown to insure against labor market risks informally, these resources might influence students’ human capital investment decisions. In this paper, we study how parental housing wealth affects children’s college major choices by combining surveys of United States undergraduates from the Higher Education Research Institute and spatial variation in housing demand growth during the 2000s housing boom. Using the structural break in three-digit zip-code-level house prices between 2000 and 2006 as an instrument for house price changes, we find that a one standard deviation increase in house prices increases enrollment in high-paying majors by 0.7 p.p, which change is driven by students whose parents are less likely to be homeowners. In contrast, in the case of a similar house price increase, students whose parents are the most likely to own homes decrease their enrollment in high-paying majors by 1.0 p.p. and increase their participation in majors with more volatile future earnings by 1.0 p.p.
+If parental resources insure children against negative labor market shocks, access to such informal safety nets might influence children’s decisions of what to study in college. This paper examines how unexpected increases in housing prices affect children’s college major choices. We do this by combining a large survey of United States first-year undergraduates with spatial variation in housing demand growth during the 2000s housing boom. Using variation in the size of the structural break in house prices as an instrument for price changes, we find that overall, unexpected increases in house prices induce first-year students to choose majors that earn more. These effects are concentrated among students from areas with low home-ownership rates, consistent with these students primarily facing a cost of living increase. In contrast, an unexpected increase in house prices induces students from areas with high home-ownership rates to choose majors associated with lower earnings. This pattern is consistent with these students responding to a wealth increase by enrolling in majors that lead to lower-paying careers but potentially better amenities.	
+
+
+## Work in progress
 
 ***The  Impact  of  Slum  Clearance  on  the  Cleared:  Evidence  from  US  Public Housing***<br>
 _with [Mel Stephens](https://sites.lsa.umich.edu/mstep/) and [Yvette Zhang](https://economics.yale.edu/people/yvette-zhang)_
@@ -33,3 +34,4 @@ _with [Mel Stephens](https://sites.lsa.umich.edu/mstep/) and [Yvette Zhang](http
 
 [jmp]: ../files/zsigmond_palvolgyi_jmp.pdf
 [gyed_extra]: ../files/bmmp_mothers_return_to_work.pdf
+[major_paper]: ../files/majors_draft.pdf
