@@ -7,8 +7,9 @@ author_profile: true
 
 ### Corvinus University of Budapest
 <ul style="list-style-type:none;">
+  <li>Microeconometrics (graduate, <em>Fall 2026</em>)</li>
   <li>Introduction to Labor Economics (<em>Fall 2025</em>)</li>
-  <li>Introduction to Macroeconomics (in Hungarian) (<em>Fall 2025</em>)</li>
+  <li>Introduction to Macroeconomics (<em>Fall 2025, Fall 2026</em>)</li>
   <li>Project III (<em>undergraduate thesis-advising course, Winter 2026</em>)</li>
 </ul> 
 <br>
